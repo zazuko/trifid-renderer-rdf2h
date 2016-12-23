@@ -11,8 +11,14 @@
   "bugs": {
     "url": "https://github.com/zazukoians/trifid-renderer-rdf2h/issues"
   },
+  "scripts": {
+    "lint": "standard *.js",
+    "test": "npm run lint"
+  },
   "dependencies": {
     "mustache": "^2.3.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
 }
