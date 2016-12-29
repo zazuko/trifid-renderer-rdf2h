@@ -3,13 +3,13 @@
   "description": "RDF2h renderer for Trifid",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/zazuko/trifid-renderer-rdf2h",
+  "homepage": "https://github.com/zazukoians/trifid-renderer-rdf2h",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zazuko/trifid-renderer-rdf2h.git"
+    "url": "https://github.com/zazukoians/trifid-renderer-rdf2h.git"
   },
   "bugs": {
-    "url": "https://github.com/zazuko/trifid-renderer-rdf2h/issues"
+    "url": "https://github.com/zazukoians/trifid-renderer-rdf2h/issues"
   },
   "scripts": {
     "lint": "standard *.js",
