@@ -12,7 +12,7 @@ function factory (options) {
 
   var callback = render.bind(null, template)
 
-  callback.accept = 'text/turtle'
+  callback.accept = 'application/ld+json'
 
   return callback
 }
